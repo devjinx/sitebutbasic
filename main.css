@@ -11,3 +11,39 @@ body {
     font-family: 'Bebas Neue', cursive;
     color: white;
 }
+
+button {
+    background-color: #282a36;
+    color: #6d7dca;
+    position: relative;
+    border: none;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin: 25px 50px 75px;
+    border-style: solid;
+}
+
+button:hover {
+    background-color: #141933;
+    color: white;
+}
+
+
+/*
+    position: relative;
+    border: none;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+*/
